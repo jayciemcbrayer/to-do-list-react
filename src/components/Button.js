@@ -1,11 +1,7 @@
 import React from 'react'
 
-const Button = () => {
-  return (
-    <button>
-      Submit 
-    </button>
-  )
+const Button = ({color, text, onAdd}) => {
+  return <button onClick={onAdd} style={{backgroundColor: color, color: 'white'}} className="btn">{text}</button>  
 }
 
 export default Button
