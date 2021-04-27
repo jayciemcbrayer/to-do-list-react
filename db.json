@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Master React",
+      "day": "Thursday @ 4:00",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Create Oppurtunites",
+      "day": "Thursday @ 4:00",
+      "reminder": false
+    },
+    {
+      "text": "Eat Pizza",
+      "day": "Everyday",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Work Out",
+      "day": "Saturday @ 12",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
